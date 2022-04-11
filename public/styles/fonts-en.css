@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'CodecProBold';
+  src: url('../fonts/CodecPro-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProBoldItalic';
+  src: url('../fonts/CodecPro-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProExtraBold';
+  src: url('../fonts/CodecPro-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProExtraBoldItalic';
+  src: url('../fonts/CodecPro-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProExtraLightItalic';
+  src: url('../fonts/CodecPro-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProFat';
+  src: url('../fonts/CodecPro-Fat.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProItalic';
+  src: url('../fonts/CodecPro-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProLight';
+  src: url('../fonts/CodecPro-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProLightItalic';
+  src: url('../fonts/CodecPro-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProNews';
+  src: url('../fonts/CodecPro-News.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CodecProRegular';
+  src: url('../fonts/CodecPro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'HagridTextVariableGX';
+  src: url('../fonts/HagridTextVariableGX\ \(1\).ttf') format('truetype');
+}
